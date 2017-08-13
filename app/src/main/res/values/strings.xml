@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom Timer</string>
+    <string name="zero_string">00:00:00</string>
+    <string name="zero_textfield">00</string>
+    <string name="clear">CLEAR</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="pause">PAUSE</string>
+    <string name="hrs">HRS</string>
+    <string name="mins">MINS</string>
+    <string name="secs">SECS</string>
+    <string name="orange">orange circle</string>
+</resources>
